@@ -1,0 +1,11 @@
+google-api-python-client
+pandas
+fastapi
+uvicorn
+nltk
+vaderSentiment
+transformers
+torch
+pydantic
+python-dotenv
+gunicorn
